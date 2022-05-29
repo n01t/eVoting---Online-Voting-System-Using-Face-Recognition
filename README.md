@@ -8,8 +8,11 @@ The main idea behind this project is to maximize the voting rate in the country.
 **Features** :
 
 Online Voting
+
 Nomination Panel
+
 Statistics Result Panel
+
 Two Step Verification
 
 **Tech Used **:
