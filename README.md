@@ -24,11 +24,16 @@ Python 3.8.6
 Module Used -
 
 face_recognition
+
 opencv_python
+
 numpy
 os
+
 DateTime
+
 Flask
+
 base64
 
 Face Recognition Algorithms -
@@ -38,6 +43,7 @@ HOG Algorithm
 Software Used -
 
 VS CODE
+
 PyCharm
 
 **Installing the packages**
@@ -47,8 +53,11 @@ let's install the necessary packages.
 To install the packagesopen the terminal or command line and paste the code from below
 
 pip install opencv-python
+
 pip install face_recognition
+
 pip install numpy
+
 pip install flask
 
 [ **Notice: During the package installization, sometime it shows some error, to avoid those error you can install those packages as admin. ]
@@ -59,11 +68,17 @@ pip install flask
 If you want to use it just follow the steps below.
 
 First download or clone the project
+
 Import the project to your favourite IDE
+
 Now run the xampp server and start APACHE server and MYSQL
+
 Create a python enviroment
+
 Install all the packages
 Run the project using the terminal by writing "flask run"
+
+
 Now open the Online-Voting-System-Old folder in VSCode and open the index.html by clicking "open with live server"
 Now you are on the website.
 
