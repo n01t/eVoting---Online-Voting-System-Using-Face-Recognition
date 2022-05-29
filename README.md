@@ -118,6 +118,15 @@ After this step the user can cast his vote as show below:
 <img width="960" alt="vote1" src="https://user-images.githubusercontent.com/104967233/170882162-732afb07-35b9-486b-ab95-4afc51cc2a81.png">
 
 
+Youtube Video For Reference https://youtu.be/917CQi19Dfc
+
+Contact: nishantkumartiwari29@gmail.com
+
+**Yet to be added features**
+
+The connection with Flask API is yet to be established which is in progress.
+
+
 
 
 
