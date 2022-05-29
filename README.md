@@ -85,7 +85,7 @@ Now you are on the website.
 **Test Run** :
 After creating the enviroment and installing the packages, open the IDE terminal/command line to run the program. Using the code below.
 
-"flask run" in PyCharm
+"flask run" in "attendance.py" in PyCharm
 Here is a demo to run the program. I'm Using the VS code IDE in my demo for frontend and PyCharm for the face recognition model
 
 
@@ -98,11 +98,18 @@ Now open the XAMPP server and start the APACHE server and MYSQL as show below:
 
 
 
-Now run the index.html by clicking "open with live server" in Online-Voting-System-Old in VSCode:
+Now run the index.html by clicking "open with live server" in "Online-Voting-System-Old" in VSCode:
+
 
 <img width="960" alt="vs code index html" src="https://user-images.githubusercontent.com/104967233/170881961-bc936917-3e75-42b2-a3b9-cf858e2e9ac6.png">
 
-Now the webpage opens as shown below:
+Also open the index.html of "Online-Voting-System" in localhost using the link- "http://localhost/Online-Voting-System/index.html", localhost will open as follows:
+<img width="959" alt="localhost" src="https://user-images.githubusercontent.com/104967233/170885747-59083865-2d47-4e8e-b5a0-afa71fff030d.png">
+
+
+
+
+Now navigate to "eVoting | India" as shown below:
 
 <img width="953" alt="webpage_start" src="https://user-images.githubusercontent.com/104967233/170881990-d870c75d-403a-4fd1-9563-43016468909c.png">
 
@@ -110,12 +117,20 @@ After this the user can click on CAST YOUR VOTE button and he will be redirected
 
 <img width="960" alt="login" src="https://user-images.githubusercontent.com/104967233/170882087-ceaf9d9c-4ff1-4606-9864-f08efaae860e.png">
 
-After this the voter will be redirected to the face recognition page as shown:
+After this the voter will be redirected to the face recognition page after clicking NEXT button as shown:
 
 <img width="960" alt="face__verification" src="https://user-images.githubusercontent.com/104967233/170882131-0fc6832a-4ab3-4b0c-a72d-fb8ae259d573.png">
 
+After this inspect and check if data in console displays the same voter id as mentioned during login :
+
+<img width="960" alt="inspect" src="https://user-images.githubusercontent.com/104967233/170885945-c4037c5a-ee83-4344-b690-ed60eca2f8bc.png">
+
+
+
+Now navigate to the localhost as shown below and go to "CAST YOUR VOTE"
+
 After this step the user can cast his vote as show below:
-<img width="960" alt="vote1" src="https://user-images.githubusercontent.com/104967233/170882162-732afb07-35b9-486b-ab95-4afc51cc2a81.png">
+<img width="960" alt="vote1" src="https://user-images.githubusercontent.com/104967233/170882162-732afb07-35b9-486b-ab95-4afc51cc2a81.png"> 
 
 
 Youtube Video For Reference https://youtu.be/917CQi19Dfc
